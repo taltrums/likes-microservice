@@ -30,3 +30,7 @@ This endpoint will check for whether a particular content is liked or not.
 3. GET API CALL for like Count - 
 http://127.0.0.1:5000/likes/total
 This endpoint will return the total no of likes for a particular content
+
+## Documentation
+
+Preview [API Documentation](https://documenter.getpostman.com/view/13971988/2s93z9ciL8)
