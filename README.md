@@ -12,9 +12,13 @@ sudo docker compose -d flask_db
 3. Run the whole application
 
 ```code
-docker compose up -d flask_app
+sudo docker compose up -d flask_app
 ```
 This will spin up the application and necessary files to run.
+
+## Application Architecture - 
+
+Preview [Application Architecture](https://drive.google.com/file/d/1CFswREFHfenRdeTtm7Ym8zynVCNQShaX/view)
 
 ## Testing the Application with postman - 
 After the application containers starts running you can make the following requests - 
