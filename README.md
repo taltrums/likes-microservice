@@ -16,6 +16,11 @@ sudo docker compose up -d flask_app
 ```
 This will spin up the application and necessary files to run.
 
+4. Stop the application
+```
+sudo docker compose down
+```
+
 ## Application Architecture - 
 
 Preview [Application Architecture](https://drive.google.com/file/d/1CFswREFHfenRdeTtm7Ym8zynVCNQShaX/view)
